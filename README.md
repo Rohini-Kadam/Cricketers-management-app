@@ -9,13 +9,14 @@ Tech Stack
 * Bootstrap
 * JSON Server
 
-Setup
+Setup:
+
 git clone https://github.com/your-username/cricketer-management-react.git
 cd cricketer-management-react
 npm install
 npm run dev
 
-Backend (JSON Server)
+Backend (JSON Server):
 
 npm install -g json-server
 
@@ -27,7 +28,7 @@ Create db.json:
 Run server:
 json-server --watch db.json --port 4000
 
-API
+API:
 * GET /cricketers
 * POST /cricketers
 * PUT /cricketers/:id
