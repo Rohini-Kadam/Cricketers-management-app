@@ -1,0 +1,16 @@
+{
+  "cricketers": [
+    {
+      "id": "1",
+      "Name": "Virat Kohli",
+      "Information": "Indian Captain, right-hand batsman",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Virat_Kohli.jpg"
+    },
+    {
+      "id": "b471",
+      "Name": "Rohit Sharma",
+      "Information": "Sharma was a member of the teams that won the 2007 T20 World Cup, the 2013 ICC Champions Trophy and was the winning captain of the 2024 T20 World Cup and the 2025 ICC Champions Trophy.",
+      "Image": "blob:http://localhost:5173/0d659e26-f50f-470b-b3e4-afc9fbfba7e6"
+    }
+  ]
+}
